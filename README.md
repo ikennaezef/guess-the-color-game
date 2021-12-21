@@ -11,5 +11,5 @@ On this game, players try to guess the correct color out of a random set of colo
 
 ### Links
 
-- Solution URL: [Code on Github](https://your-solution-url.com)
+- Solution URL: [Code on Github](https://github.com/ikennaezef/guess-the-color-game)
 - Live Site URL: (https://ikennaezef.github.io/guess-the-color-game/)
